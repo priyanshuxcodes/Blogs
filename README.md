@@ -4,30 +4,17 @@ A central repository to organize all my blog posts and reference links by topic.
 
 ---
 
-## **Project Overview**
+## **1. Network Devices**
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| Example: Version Control Explained | [Read Here](#) | An introduction to Git, its history, and why version control exists. |
-| | | |
+| Understanding Network Devices | [Read Here](https://cohort26ps.hashnode.dev/understanding-network-devices) | Detailed explanation of routers, switches, and other network devices. |
+
 | | | |
 
 ---
 
-## **2. Network Devices**
-> Blogs explaining networking concepts, devices, and their workflows.
-
-| Blog Title | Link | Description |
-|------------|------|-------------|
-| Example: Understanding Routers & Switches | [Read Here](#) | Detailed explanation of routers, switches, and network coordination. |
-| Example: TCP 3-Way Handshake & Reliable Communication | [Read Here](#) | How TCP establishes connections and ensures reliable data transfer. |
-| Example: TCP Header Explained | [Read Here](#) | Breakdown of TCP header fields and their roles in communication. |
-| | | |
-
----
-
-## **3. TCP & UDP**
-> Blogs on transport layer protocols, connection setup, and reliable/unreliable communication.
+## **2. TCP & UDP**
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
@@ -37,7 +24,7 @@ A central repository to organize all my blog posts and reference links by topic.
 
 ---
 
-## **4. HTML & CSS**
+## **3. HTML & CSS**
 > Blogs covering front-end development, tags, elements, and styling.
 
 | Blog Title | Link | Description |
@@ -50,7 +37,7 @@ A central repository to organize all my blog posts and reference links by topic.
 
 ---
 
-## **5. Tools**
+## **4. Tools**
 > Blogs on software, utilities, and productivity tools.
 
 | Blog Title | Link | Description |
@@ -60,5 +47,3 @@ A central repository to organize all my blog posts and reference links by topic.
 | | | |
 
 ---
-
-*You can duplicate the empty rows or sections as your blog collection grows.*
