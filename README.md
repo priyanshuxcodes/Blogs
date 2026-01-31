@@ -12,7 +12,17 @@ A central repository to organize all my blog posts and reference links by topic.
 
 ---
 
-## **2. TCP & UDP**
+## **2. DNS**
+
+| Blog Title | Link | Description |
+|------------|------|-------------|
+| DNS Resolution | [Read Here](https://cohort26dns.hashnode.dev/dns-resolution) | Comparison of TCP and UDP, their uses, and advantages. |
+| DNS Records | [Read Here](https://cohort26dns.hashnode.dev/dns-records) | Explanation of the 3-way handshake to establish TCP connections. |
+| | | |
+
+---
+
+## **3. TCP & UDP**
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
@@ -22,7 +32,7 @@ A central repository to organize all my blog posts and reference links by topic.
 
 ---
 
-## **3. HTML & CSS**
+## **4. HTML & CSS**
 > Blogs covering front-end development, tags, elements, and styling.
 
 | Blog Title | Link | Description |
@@ -35,23 +45,23 @@ A central repository to organize all my blog posts and reference links by topic.
 
 ---
 
-## **4. Tools**
+## **5. Tools**
 > Blogs on software, utilities, and productivity tools.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| Example: Using Git & GitHub | [Read Here](#) | Workflow of Git, commits, branching, and remote repositories. |
-| Example: Warp Terminal for Mac | [Read Here](#) | How to use Warp terminal and its advantages for developers. |
+| Getting Started with cURL | [Read Here](https://curl-ps.hashnode.dev/getting-started-with-curl) | Workflow of Git, commits, branching, and remote repositories. |
 | | | |
 
 ---
 
-## **5. GIT and GITHUB**
+## **6. GIT and GITHUB**
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| Example: Using Git & GitHub | [Read Here](#) | Workflow of Git, commits, branching, and remote repositories. |
-| Example: Warp Terminal for Mac | [Read Here](#) | How to use Warp terminal and its advantages for developers. |
+| Why Version Control Exists: The Pendrive Problem| [Read Here](https://piyanshu-blogs.hashnode.dev/why-version-control-exists-the-pendrive-problem) | Workflow of Git, commits, branching, and remote repositories. |
+| Inside Git: How It Works and the Role of the .git Folder | [Read Here](https://piyanshu-blogs.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder) | How to use Warp terminal and its advantages for developers. |
+| Git for Beginners: Basics and Essential Commands | [Read Here](https://piyanshu-blogs.hashnode.dev/git-for-beginners-basics-and-essential-commands) | How to use Warp terminal and its advantages for developers. |
 | | | |
 
 ---
