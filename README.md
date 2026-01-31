@@ -17,8 +17,7 @@ A central repository to organize all my blog posts and reference links by topic.
 | Blog Title | Link | Description |
 |------------|------|-------------|
 | TCP vs UDP: When to Use What, and How TCP Relates to HTTP | [Read Here](https://tcp-udpps.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) | Comparison of TCP and UDP, their uses, and advantages. |
-| TCP Working: 3-Way Handshake & Reliable Communication
- | [Read Here](https://tcp-udpps.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication) | Explanation of the 4-step handshake to close TCP connections. |
+| TCP Working: 3-Way Handshake & Reliable Communication | [Read Here](https://tcp-udpps.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication) | Explanation of the 4-step handshake to close TCP connections. |
 | | | |
 
 ---
