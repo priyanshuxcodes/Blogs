@@ -1,4 +1,4 @@
-# My Blog Links Repository
+# My Blog Links
 
 A central repository to organize all my blog posts and reference links by topic.
 
@@ -33,7 +33,6 @@ A central repository to organize all my blog posts and reference links by topic.
 ---
 
 ## **4. HTML & CSS**
-> Blogs covering front-end development, tags, elements, and styling.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
@@ -46,7 +45,6 @@ A central repository to organize all my blog posts and reference links by topic.
 ---
 
 ## **5. Tools**
-> Blogs on software, utilities, and productivity tools.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
