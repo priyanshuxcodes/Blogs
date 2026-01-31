@@ -17,7 +17,7 @@ A central repository to organize all my blog posts and reference links by topic.
 | Blog Title | Link | Description |
 |------------|------|-------------|
 | TCP vs UDP: When to Use What, and How TCP Relates to HTTP | [Read Here](https://tcp-udpps.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http) | Comparison of TCP and UDP, their uses, and advantages. |
-| TCP Working: 3-Way Handshake & Reliable Communication | [Read Here](https://tcp-udpps.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication) | Explanation of the 4-step handshake to close TCP connections. |
+| TCP Working: 3-Way Handshake & Reliable Communication | [Read Here](https://tcp-udpps.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication) | Explanation of the 3-way handshake to establish TCP connections. |
 | | | |
 
 ---
@@ -27,16 +27,26 @@ A central repository to organize all my blog posts and reference links by topic.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| Example: HTML Tags vs Elements | [Read Here](#) | Difference between tags and elements with real-life analogies. |
-| Example: Block vs Inline Elements | [Read Here](#) | Explanation of block-level and inline-level HTML elements. |
-| Example: CSS Selectors | [Read Here](#) | Overview of group selectors, descendant selectors, and priority. |
-| Example: Inspecting HTML in Browser | [Read Here](#) | How to inspect and edit HTML using browser developer tools. |
+| Understanding HTML Tags and Elements | [Read Here](https://piyanshu-blogs.hashnode.dev/understanding-html-tags-and-elements) | Difference between tags and elements with real-life analogies. |
+| How a Browser Works: A Beginner-Friendly Guide to Browser Internals | [Read Here](https://piyanshu-blogs.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) | Explanation of browser internals. |
+| CSS Selectors | [Read Here](https://piyanshu-blogs.hashnode.dev/css-selectors-101-targeting-elements-with-precision) | Overview of class, id, group descendant selectors, and priority. |
+| Emmet for HTML: A Beginner’s Guide to Writing Faster Markup | [Read Here](#) | Importance of Emmet in HTML explained. |
 | | | |
 
 ---
 
 ## **4. Tools**
 > Blogs on software, utilities, and productivity tools.
+
+| Blog Title | Link | Description |
+|------------|------|-------------|
+| Example: Using Git & GitHub | [Read Here](#) | Workflow of Git, commits, branching, and remote repositories. |
+| Example: Warp Terminal for Mac | [Read Here](#) | How to use Warp terminal and its advantages for developers. |
+| | | |
+
+---
+
+## **5. GIT and GITHUB**
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
