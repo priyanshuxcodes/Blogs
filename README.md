@@ -16,8 +16,8 @@ A central repository to organize all my blog posts and reference links by topic.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| DNS Resolution | [Read Here](https://cohort26dns.hashnode.dev/dns-resolution) | Comparison of TCP and UDP, their uses, and advantages. |
-| DNS Records | [Read Here](https://cohort26dns.hashnode.dev/dns-records) | Explanation of the 3-way handshake to establish TCP connections. |
+| DNS Resolution | [Read Here](https://cohort26dns.hashnode.dev/dns-resolution) | Domain to IP explained. |
+| DNS Records | [Read Here](https://cohort26dns.hashnode.dev/dns-records) | A, MX, NS and other records discussed in detail. |
 | | | |
 
 ---
@@ -50,7 +50,7 @@ A central repository to organize all my blog posts and reference links by topic.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| Getting Started with cURL | [Read Here](https://curl-ps.hashnode.dev/getting-started-with-curl) | Workflow of Git, commits, branching, and remote repositories. |
+| Getting Started with cURL | [Read Here](https://curl-ps.hashnode.dev/getting-started-with-curl) | Importance of cURL for developers. |
 | | | |
 
 ---
@@ -59,9 +59,9 @@ A central repository to organize all my blog posts and reference links by topic.
 
 | Blog Title | Link | Description |
 |------------|------|-------------|
-| Why Version Control Exists: The Pendrive Problem| [Read Here](https://piyanshu-blogs.hashnode.dev/why-version-control-exists-the-pendrive-problem) | Workflow of Git, commits, branching, and remote repositories. |
-| Inside Git: How It Works and the Role of the .git Folder | [Read Here](https://piyanshu-blogs.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder) | How to use Warp terminal and its advantages for developers. |
-| Git for Beginners: Basics and Essential Commands | [Read Here](https://piyanshu-blogs.hashnode.dev/git-for-beginners-basics-and-essential-commands) | How to use Warp terminal and its advantages for developers. |
+| Why Version Control Exists: The Pendrive Problem| [Read Here](https://piyanshu-blogs.hashnode.dev/why-version-control-exists-the-pendrive-problem) | Discussed 'Why git is needed' in detail . |
+| Inside Git: How It Works and the Role of the .git Folder | [Read Here](https://piyanshu-blogs.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder) | Internals of .git folder explained in detail. |
+| Git for Beginners: Basics and Essential Commands | [Read Here](https://piyanshu-blogs.hashnode.dev/git-for-beginners-basics-and-essential-commands) | Workflow of Git, commits, branching, and remote repositories. |
 | | | |
 
 ---
