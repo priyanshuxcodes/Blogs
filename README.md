@@ -38,7 +38,7 @@ A central repository to organize all my blog posts and reference links by topic.
 |------------|------|-------------|
 | How a Browser Works: A Beginner-Friendly Guide to Browser Internals | [Read Here](https://piyanshu-blogs.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) | Explanation of browser internals. |
 | Understanding HTML Tags and Elements | [Read Here](https://piyanshu-blogs.hashnode.dev/understanding-html-tags-and-elements) | Difference between tags and elements with real-life analogies. |
-| Emmet for HTML: A Beginner’s Guide to Writing Faster Markup | [Read Here](#) | Importance of Emmet in HTML explained. |
+| Emmet for HTML: A Beginner’s Guide to Writing Faster Markup | [Read Here](https://piyanshu-blogs.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup) | Importance of Emmet in HTML explained. |
 | CSS Selectors | [Read Here](https://piyanshu-blogs.hashnode.dev/css-selectors-101-targeting-elements-with-precision) | Overview of class, id, group descendant selectors, and priority. |
 | | | |
 
